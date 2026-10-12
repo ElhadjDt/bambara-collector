@@ -1,0 +1,6 @@
+streamlit>=1.50
+psycopg[binary]>=3.2
+boto3>=1.36
+soundfile>=0.12.1
+numpy>=1.26
+pandas>=2.0
